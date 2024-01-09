@@ -16,11 +16,11 @@ export const NAMES = [
     stack: "Core",
   },
   {
-    name: "Balás Mihály",
+    name: "Cserepes Márton",
     stack: "Backend",
   },
   {
-    name: "Jonuczás Norbert",
+    name: "Balás Mihály",
     stack: "Backend",
   },
   {
