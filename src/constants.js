@@ -44,7 +44,7 @@ export const NAMES = [
     stack: "Web QA",
   },
   {
-    name: "Jokuthy Szilárd",
+    name: "Jókuthy Szilárd",
     stack: "Web QA",
   },
   {
